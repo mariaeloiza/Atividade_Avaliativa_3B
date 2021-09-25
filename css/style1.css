@@ -1,0 +1,24 @@
+
+.container{
+    background-image: url(../imagens/Fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1200px;
+    margin-top: 10px;
+}
+
+.linha01{
+    height: 400px;
+}
+
+.linha02{
+    height: 400px;
+}
+
+.linha03{
+    height: 40px;
+}
+
+.linha04{
+    height: 50px;
+}
